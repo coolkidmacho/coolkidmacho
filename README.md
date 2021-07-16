@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coolkidmacho&label=Profile%20views&color=0e75b6&style=flat" alt="coolkidmacho" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coolkidmacho" alt="coolkidmacho" /></a> </p>
-
 - 🔭 I’m currently working on [Smart Sniper](https://github.com/snipesmarter/smart-sniper)
 
 - 🌱 I’m currently learning **Vue, apis, webscraping and ai.**
