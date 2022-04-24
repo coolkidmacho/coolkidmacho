@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vue, apis, webscraping and ai.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/)
+- 👨‍💻 All of my projects are available at [https://github.com/coolkidmacho](https://github.com/coolkidmacho)
 
 - 📫 How to reach me **on discord at Coolkidmacho#0001**
 
